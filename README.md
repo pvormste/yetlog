@@ -1,6 +1,6 @@
 [![GoDoc](https://godoc.org/github.com/pvormste/yetlog?status.svg)](https://godoc.org/github.com/pvormste/yetlog)
 
-# yetlog
+# yetlog (Yet (Another) Logger)
 
 `yetlog` provides a universal logger interface.
 
