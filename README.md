@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/pvormste/yetlog?status.svg)](https://godoc.org/github.com/pvormste/yetlog)
+[![GoDoc](https://godoc.org/github.com/pvormste/yetlog?status.svg)](https://godoc.org/github.com/pvormste/yetlog) ![](https://github.com/pvormste/yetlog/workflows/lint/badge.svg)
 
 # yetlog (Yet (Another) Logger)
 
