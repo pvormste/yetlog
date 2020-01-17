@@ -4,6 +4,12 @@
 
 `yetlog` provides a universal logger interface.
 
+## Install
+
+```bash
+go get -u github.com/pvormste/yetlog
+```
+
 ## Usage
 
 ```go
